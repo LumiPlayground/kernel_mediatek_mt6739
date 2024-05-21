@@ -7,7 +7,7 @@ import optparse
 import tempfile
 import logging
 import shutil
-import ConfigParser
+import configparser
 
 class Fail(Exception):
     def __init__(self, test, msg):
