@@ -40,6 +40,7 @@ extern LCM_DRIVER hx8369_dsi_lcm_drv;
 extern LCM_DRIVER hx8369_dsi_6575_lcm_drv;
 extern LCM_DRIVER hx8369_dsi_6575_hvga_lcm_drv;
 extern LCM_DRIVER hx8369_dsi_6575_qvga_lcm_drv;
+extern LCM_DRIVER ili9881p_hd_dsi_vdo_ilitek_lcm_drv;
 extern LCM_DRIVER ili9881c_hd_dsi_vdo_ilitek_nt50358_lcm_drv;
 extern LCM_DRIVER hx8369_dsi_vdo_lcm_drv;
 extern LCM_DRIVER hx8369b_dsi_vdo_lcm_drv;

@@ -195,6 +195,10 @@ LCM_DRIVER *lcm_driver_list[] = {
 	&nt35582_rgb_6575_lcm_drv,
 #endif
 
+#if defined(ILI9881P_HD_DSI_VDO_ILITEK)
+	&ili9881p_hd_dsi_vdo_ilitek_lcm_drv,
+#endif
+
 #if defined(ILI9881C_HD_DSI_VDO_ILITEK_NT50358)
 	&ili9881c_hd_dsi_vdo_ilitek_nt50358_lcm_drv,
 #endif
